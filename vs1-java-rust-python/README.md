@@ -4,6 +4,8 @@ Los mismos cuatro ejercicios de clase resueltos con el **mismo algoritmo** en lo
 legibilidad, simplicidad y velocidad. El factorial de 27 da **tres resultados distintos** según el lenguaje: esa es la
 sorpresa del vídeo.
 
+Lista de reproducción: [VS // Java vs Rust vs Python](https://www.youtube.com/playlist?list=PLELnkvMRWDYI).
+
 Cada fichero termina con un comentario que explica qué hace y qué resultado esperar.
 
 | Ejercicio | Python | Java | Rust |

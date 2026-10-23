@@ -1,5 +1,7 @@
 # Episodios de «Rust de 0 a experto»
 
+Lista de reproducción: [RUST // Rust de 0 a experto](https://www.youtube.com/playlist?list=PLRii3nW0ci0g).
+
 Un programa por episodio. Para ejecutar uno, desde la raíz del repositorio:
 
 ```bash

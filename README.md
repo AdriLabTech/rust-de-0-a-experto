@@ -4,6 +4,8 @@ Código de la lista **«Rust de 0 a experto»** del canal [Low Noise](https://ww
 **VS // 01 · Java vs Rust vs Python**. Cada ejemplo compila y se ejecuta; está comentado línea a línea y pensado para
 que lo abras junto al vídeo.
 
+> Lista de reproducción: [RUST // Rust de 0 a experto](https://www.youtube.com/playlist?list=PLRii3nW0ci0g) · [VS // Java vs Rust vs Python](https://www.youtube.com/playlist?list=PLELnkvMRWDYI)
+>
 > Comunidad, dudas y votaciones del próximo vídeo: [Discord de Low Noise](https://discord.gg/5huPV8cCVF)
 
 ## Qué hay aquí
