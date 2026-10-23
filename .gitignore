@@ -1,0 +1,7 @@
+# Compilados y binarios
+/target/
+*.class
+__pycache__/
+
+# Datos de prueba del gestor de habitos
+habitos.txt
