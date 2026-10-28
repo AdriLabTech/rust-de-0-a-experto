@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/hero.svg" alt="rust-de-0-a-experto" width="100%"></p>
+
 # Rust de 0 a experto
 
 Código de la lista **«Rust de 0 a experto»** del canal [Low Noise](https://www.youtube.com/@Low_Noise-n4e) y del vídeo
